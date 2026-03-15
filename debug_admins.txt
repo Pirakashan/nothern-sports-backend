@@ -1,0 +1,4 @@
+ADMINS:
+  U1 System Administrator r=system_admin d=
+  U2 Vavuniya Sub Admin r=sub_admin d=1
+  U3 Kilinochchi Sub Admin r=sub_admin d=2
